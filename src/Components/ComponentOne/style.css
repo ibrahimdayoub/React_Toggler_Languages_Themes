@@ -1,0 +1,20 @@
+.content{
+    border: 1px solid #61dafb;
+    margin:0;
+    padding: 0;
+}
+
+.title{
+    margin:0;
+    padding:5px;
+}
+
+#dark .title{
+    background-color: #282c34;
+    color: white;
+}
+
+#light .title{
+    background-color: white;
+    color: #282c34;
+}
